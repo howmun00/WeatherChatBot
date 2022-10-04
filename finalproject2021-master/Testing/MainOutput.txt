@@ -1,0 +1,9 @@
+Please let me know the city you want to know the weather.
+You: Dublin
+{"coord":{"lon":-121.9358,"lat":37.7021},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01d"}],"base":"stations","main":{"temp":6.42,"feels_like":4.96,"temp_min":4.44,"temp_max":8.33,"pressure":1014,"humidity":81},"visibility":10000,"wind":{"speed":2.06,"deg":80},"clouds":{"all":1},"dt":1618409216,"sys":{"type":1,"id":4774,"country":"US","sunrise":1618407200,"sunset":1618454523},"timezone":-25200,"id":5344157,"name":"Dublin","cod":200}
+Location: Dublin, Ireland
+Current Temperature: 6.42
+Feels Like: 4.96
+Max: 8.33
+Min: 4.44
+Wind Speed: 2.06
